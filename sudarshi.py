@@ -127,7 +127,8 @@ while True:
   print("USD. United States Dollar (USD)")
   print("EUR. Euro (EUR)")
   print("GBP. Pound sterling (GBP)")
-  choice = input("Enter your choice(USD/EUR/GBP): ")
+  choice = input("Enter your choice(USD/EUR/GBP): 
+                 
 
 # options
   if choice in ('USD', 'EUR', 'GBP'):
